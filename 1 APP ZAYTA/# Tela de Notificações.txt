@@ -1,0 +1,22 @@
+# Tela de Notificações
+
+## Funções
+
+- Exibir título "Notificações".
+- Exibir subtítulo "PERSONALIZE SEUS LEMBRETES".
+- Exibir botão de voltar.
+- Exibir opções de lembretes com interruptores (toggle switches):
+  - Notificação de "Água" com subtítulo ("A cada 2 horas") e status ativado.
+  - Notificação de "Refeições" com subtítulo ("Horários agendados") e status ativado.
+  - Notificação de "Treino" com subtítulo ("Horário do seu treino") e status ativado.
+  - Notificação de "Pesar" com subtítulo ("Uma vez por semana") e status desativado.
+  - Notificação de "Conquistas" com subtítulo ("Novos badges e troféus") e status ativado.
+  - Notificação de "Desafios" com subtítulo ("Updates e lembretes") e status ativado.
+- Exibir mensagem informativa ("Você pode personalizar ou desabilitar as notificações a qualquer momento. Lembretes ajudam na consistência do seu objetivo.").
+- Exibir botão de ação "Salvar Alterações".
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

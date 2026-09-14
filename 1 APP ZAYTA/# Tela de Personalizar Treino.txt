@@ -1,0 +1,35 @@
+# Tela de Personalizar Treino
+
+## Funções
+
+- Exibir título "Personalizar Treino".
+- Exibir subtítulo "Ajuste para sua rotina perfeita".
+- Exibir botão de voltar.
+- Exibir seção "Qual é seu objetivo?" com seletor/dropdown (ex: "Emagrecimento").
+- Exibir seção "Seu nível de experiência" com opções:
+  - Iniciante
+  - Intermediário (selecionado)
+  - Avançado
+- Exibir seção "Frequência Semanal" com contador indicativo (ex: "4 DIAS POR SEMANA") e seletor de dias de 1 a 7.
+- Exibir seção "Tempo por treino" com opções de duração:
+  - 15min
+  - 20min (selecionado)
+  - 30min
+- Exibir seção "Onde você pretende treinar?" com opções:
+  - Em Casa (selecionado)
+  - Academia
+- Exibir seção "Equipamentos disponíveis" com checkboxes de seleção múltipla:
+  - Sem equipamento (Peso corporal) (selecionado)
+  - Halteres
+  - Kettlebell
+  - Elásticos
+- Exibir mensagem informativa de atualização automática dos treinos baseada nas preferências.
+- Exibir botões de ação na parte inferior:
+  - Botão "Salvar Alterações"
+  - Botão "Cancelar"
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

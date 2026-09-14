@@ -1,0 +1,29 @@
+# Tela de Treinos
+
+## Funções
+
+- Exibir saudação personalizada com o nome do usuário.
+- Exibir a seção "Meus Treinos".
+- Exibir descrição da seção de treinos.
+- Permitir filtrar os treinos por categoria:
+  - Tudo
+  - Força
+  - HIIT
+  - Mobilidade
+- Exibir lista de treinos disponíveis.
+- Exibir nível de dificuldade do treino:
+  - Iniciante
+  - Intermediário
+  - Avançado
+- Exibir imagem do treino.
+- Exibir nome do treino.
+- Exibir duração do treino.
+- Exibir estimativa de calorias gastas.
+- Permitir iniciar um treino através do botão "Iniciar Treino".
+- Abrir a execução detalhada do treino ao iniciar.
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

@@ -1,0 +1,25 @@
+# Tela de Receitas
+
+## Funções
+
+- Exibir título "Receitas".
+- Permitir pesquisar receitas.
+- Permitir filtrar receitas por categoria:
+  - Tudo
+  - Café da manhã
+  - Almoço
+  - Outras categorias conforme necessário
+- Exibir receitas em formato de cards.
+- Exibir imagem da receita.
+- Exibir nome da receita.
+- Exibir tempo de preparo.
+- Exibir quantidade de porções.
+- Exibir quantidade estimada de calorias.
+- Permitir selecionar uma receita para visualizar seus detalhes.
+- Exibir diferentes opções de receitas.
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

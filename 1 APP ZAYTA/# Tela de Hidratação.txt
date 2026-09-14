@@ -1,0 +1,27 @@
+# Tela de Hidratação
+
+## Funções
+
+- Exibir título "Minha Hidratação".
+- Exibir data atual (ex: "HOJE, 24 DE OUTUBRO").
+- Exibir botão de voltar.
+- Exibir gráfico visual ou nível de água preenchido representando o consumo.
+- Exibir quantidade de água consumida atualmente em relação à meta (ex: "1,6 de 2,5 L").
+- Exibir porcentagem da meta atingida (ex: "64% DA META ATINGIDA").
+- Permitir adicionar quantidades rápidas de água:
+  - +200ml
+  - +300ml
+  - +500ml
+- Permitir adicionar quantidade personalizada de água.
+- Exibir seção de histórico de consumo de hoje.
+- Exibir registros individuais no histórico contendo:
+  - Horário do registro
+  - Quantidade adicionada (ex: "+300 ml")
+  - Valor acumulado até o momento (ex: "ACUMULADO 1,6L")
+  - Opção para excluir um registro do histórico.
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

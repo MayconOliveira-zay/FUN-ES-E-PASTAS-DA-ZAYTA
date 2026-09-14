@@ -1,0 +1,23 @@
+# Tela Inicial
+
+## Funções
+
+- Exibir saudação personalizada com o nome do usuário.
+- Exibir o percentual de progresso do dia.
+- Exibir calorias consumidas no dia.
+- Exibir progresso da meta diária de calorias.
+- Exibir quantidade de água consumida.
+- Exibir progresso da meta diária de hidratação.
+- Exibir o treino recomendado para o dia.
+- Exibir duração e estimativa de calorias do treino.
+- Permitir acessar a lista completa de treinos através de "Ver tudo".
+- Exibir peso atual do usuário.
+- Exibir meta de peso.
+- Exibir percentual de evolução do peso.
+- Exibir gráfico de evolução do peso.
+- Permitir acesso às áreas principais através da navegação inferior:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

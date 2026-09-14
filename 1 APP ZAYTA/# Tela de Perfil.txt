@@ -1,0 +1,28 @@
+# Tela de Perfil
+
+## Funções
+
+- Exibir foto do perfil do usuário.
+- Permitir alterar a foto do perfil.
+- Exibir nome do usuário.
+- Exibir e-mail do usuário.
+- Permitir editar o perfil.
+- Exibir informações pessoais:
+  - Idade
+  - Altura
+  - Peso atual
+  - Meta de peso
+  - Nível de atividade
+- Exibir seção de configurações.
+- Permitir acessar as notificações.
+- Permitir configurar preferências do aplicativo.
+- Permitir acessar senha e segurança.
+- Permitir acessar configurações de privacidade.
+- Permitir acessar o suporte.
+- Permitir sair da conta.
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

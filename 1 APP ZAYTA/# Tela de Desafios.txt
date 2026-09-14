@@ -1,0 +1,28 @@
+# Tela de Desafios
+
+## Funções
+
+- Exibir título "Desafios".
+- Exibir subtítulo "SUPERE SEUS LIMITES".
+- Exibir botão de voltar.
+- Exibir ícone de troféu no topo.
+- Exibir seção de "Desafio em Destaque" (card grande verde):
+  - Exibir badge com ícone de chama e tempo restante (ex: "3 dias").
+  - Exibir título do desafio em destaque (ex: "Consistência de Ouro").
+  - Exibir descrição do desafio (ex: "Registre sua alimentação e exercícios por 7 dias seguidos.").
+  - Exibir progresso atual (ex: "3/7 DIAS") e barra de progresso correspondente.
+  - Exibir botão de ação com seta.
+- Exibir seção "Desafios Ativos":
+  - Exibir card do desafio "Hidratação 2.5L" com status "ATIVO", descrição ("Beba a meta diária por 5 dias") e barra de progresso (ex: "3/5").
+  - Exibir card do desafio "Força Total" com status "ATIVO", descrição ("Complete 10 treinos de força") e barra de progresso (ex: "8/10").
+- Exibir seção "Conquistas Recentes":
+  - Exibir card "Primeiro Passo" com subtítulo ("1º TREINO CONCLUÍDO").
+  - Exibir card "Chef Saudável" com subtítulo ("10 RECEITAS REGISTRADAS").
+- Exibir seção "Disponíveis":
+  - Exibir card de desafio bloqueado "Mestre da Balança" com ícone de cadeado e instrução ("Reduza 5kg para desbloquear").
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

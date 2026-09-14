@@ -1,0 +1,27 @@
+# Tela de Evolução
+
+## Funções
+
+- Exibir o peso atual do usuário.
+- Exibir a variação de peso no período.
+- Exibir a meta de peso.
+- Exibir gráfico de evolução do peso.
+- Exibir evolução do peso por período.
+- Exibir IMC atual.
+- Exibir classificação do IMC.
+- Exibir percentual de gordura corporal.
+- Exibir variação do percentual de gordura.
+- Exibir seção de conquistas e marcos.
+- Exibir metas alcançadas pelo usuário.
+- Exibir progresso das metas ainda não alcançadas.
+- Exibir histórico de medições.
+- Exibir data de cada medição.
+- Exibir peso registrado em cada medição.
+- Exibir variação de peso entre as medições.
+- Permitir adicionar uma nova medição através de "Nova Medição".
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

@@ -1,0 +1,31 @@
+# Tela de Refeições
+
+## Funções
+
+- Exibir a data atual.
+- Exibir o total de calorias consumidas no dia.
+- Exibir a meta diária de calorias.
+- Exibir o percentual de calorias consumidas.
+- Exibir a distribuição de calorias entre as refeições:
+  - Café da manhã
+  - Almoço
+  - Lanche
+  - Jantar
+- Exibir calorias registradas em cada refeição.
+- Permitir buscar alimentos.
+- Exibir sugestões rápidas de alimentos.
+- Exibir lista de refeições registradas no dia.
+- Exibir horário de cada refeição.
+- Exibir nome do alimento ou prato.
+- Exibir descrição da refeição.
+- Exibir quantidade de calorias de cada refeição.
+- Exibir opção de acessar o relatório das refeições.
+- Permitir adicionar uma nova refeição através do botão "+".
+- Permitir registrar alimentos e refeições.
+- Permitir visualizar as refeições do dia.
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

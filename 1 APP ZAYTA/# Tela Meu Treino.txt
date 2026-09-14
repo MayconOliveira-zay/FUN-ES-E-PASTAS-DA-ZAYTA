@@ -1,0 +1,20 @@
+# Tela Meu Treino
+
+## Funções
+
+- Permitir voltar para a tela anterior.
+- Exibir o treino sugerido do dia, com nível ("Iniciante") e local ("Em casa").
+- Exibir nome do treino sugerido.
+- Exibir duração estimada e calorias estimadas do treino.
+- Permitir iniciar o treino através de "Começar Treino".
+- Permitir personalizar o treino através de "Personalizar Treino".
+- Exibir a quantidade total de exercícios do dia.
+- Exibir a lista de exercícios do dia, cada um com nome, série e tempo de descanso.
+- Permitir acessar o detalhe de um exercício específico.
+- Exibir aviso de que os treinos são sugestões gerais e recomendar orientação profissional.
+- Permitir acesso às áreas principais através da navegação inferior:
+- Início
+- Refeições
+- Treinos
+- Evolução
+- Perfil

@@ -1,0 +1,18 @@
+# Tela de Execução de Exercício (Timer / Prancha)
+
+## Funções
+
+- Exibir contador de progresso do treino (ex: "EXERCÍCIO 3 DE 8").
+- Exibir indicação do próximo exercício (ex: "Próximo: Agachamento").
+- Exibir botão de fechar/sair da tela (ícone "X").
+- Exibir timer circular de contagem regressiva/progresso com cor verde.
+- Exibir nome do exercício atual no centro (ex: "PRANCHA").
+- Exibir o tempo restante em destaque (ex: "00:45").
+- Exibir status atual da execução (ex: badge "EM EXECUÇÃO").
+- Exibir seção de instrução "Como Executar":
+  - Exibir título com marcador lateral verde.
+  - Exibir subtítulo de postura (ex: "Mantenha o corpo em linha reta").
+  - Exibir descrição detalhada dos passos (ex: "Mantenha os cotovelos alinhados com os ombros. Contraia o abdômen e não deixe o quadril cair. Respire pausadamente.").
+- Exibir botões de controle de treino na parte inferior:
+  - Botão "PAUSAR" com ícone de pausa.
+  - Botão "FINALIZAR" com ícone de confirmação em destaque verde.

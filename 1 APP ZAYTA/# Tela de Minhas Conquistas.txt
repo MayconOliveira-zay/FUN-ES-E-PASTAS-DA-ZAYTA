@@ -1,0 +1,25 @@
+# Tela de Minhas Conquistas
+
+## Funções
+
+- Exibir título "Minhas Conquistas".
+- Exibir botão de voltar.
+- Exibir cartão de progresso geral:
+  - Exibir contagem de badges conquistadas (ex: "5 de 12 badges").
+  - Exibir porcentagem correspondente (ex: "41%").
+  - Exibir barra de progresso visual.
+- Exibir grade de cards de conquistas/badges (conquistadas e bloqueadas):
+  - Exibir badge "Primeiro Treino" com ícone de fogo e data de conquista ("12 DE MAIO").
+  - Exibir badge "Primeira Semana" com ícone de calendário e data de conquista ("15 DE MAIO").
+  - Exibir badge "7 Dias Água" com ícone de gota e data de conquista ("20 DE MAIO").
+  - Exibir badge "5kg Eliminados" com ícone de seta para baixo e data de conquista ("22 DE MAIO").
+  - Exibir badge "Prato Saudável" com ícone de talheres e data de conquista ("24 DE MAIO").
+  - Exibir badge bloqueada "Meta 10 Dias" com instrução de progresso ("COMPLETE 10 DIAS").
+  - Exibir badge bloqueada "30 Dias Foco" com contagem restante ("FALTAM 18 DIAS").
+  - Exibir badge bloqueada "Semana Ouro" com requisito ("7 DIAS BATENDO METAS").
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

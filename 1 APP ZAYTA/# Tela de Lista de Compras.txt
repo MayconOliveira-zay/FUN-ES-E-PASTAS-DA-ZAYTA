@@ -1,0 +1,30 @@
+# Tela de Lista de Compras
+
+## Funções
+
+- Exibir título "Lista de Compras".
+- Exibir progresso da lista de compras.
+- Exibir quantidade de itens concluídos e total de itens.
+- Exibir barra de progresso dos itens comprados.
+- Permitir limpar/remover os itens já comprados.
+- Organizar os itens por categorias:
+  - Carnes
+  - Frutas
+  - Laticínios
+  - Outras categorias conforme necessário
+- Exibir nome de cada item.
+- Exibir quantidade ou unidade de cada item.
+- Permitir marcar um item como comprado.
+- Permitir desmarcar um item comprado.
+- Aplicar indicação visual aos itens comprados.
+- Permitir excluir itens individualmente.
+- Permitir adicionar um item manualmente.
+- Permitir adicionar novos itens através do botão "+".
+- Atualizar automaticamente o progresso conforme os itens são marcados como comprados.
+- Permitir acessar a lista de compras a partir da área de Refeições.
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil

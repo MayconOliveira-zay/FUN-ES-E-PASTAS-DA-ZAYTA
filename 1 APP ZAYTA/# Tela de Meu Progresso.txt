@@ -1,0 +1,31 @@
+# Tela de Meu Progresso
+
+## Funções
+
+- Exibir título "Meu Progresso".
+- Exibir botão de voltar.
+- Exibir ícone de notificações.
+- Exibir cartão principal de peso:
+  - Exibir peso atual (ex: "87,7 kg").
+  - Exibir variação percentual e em peso (ex: "-2,3% (-2,1kg)").
+  - Exibir meta final (ex: "60,0 kg").
+  - Exibir quanto falta para a meta (ex: "27,7 kg faltam").
+  - Exibir gráfico de evolução do peso ao longo dos meses (JAN a JUN).
+  - Exibir botão de ação "Registrar Peso".
+- Exibir cartões de resumo estatístico:
+  - Exibir dias ativos (ex: "24 dias").
+  - Exibir treinos realizados (ex: "12").
+- Exibir métricas corporais detalhadas:
+  - Exibir IMC atual e status (ex: "26.4" e tag "ACIMA DO PESO").
+  - Exibir gordura corporal e variação mensal (ex: "22%" e "-1.5% este mês").
+  - Exibir massa muscular e status (ex: "38%" e "Estável").
+- Exibir seção "Marcos Alcançados":
+  - Exibir botão "Ver Todos".
+  - Exibir marcos conquistados (ex: "5kg perdidos" com data).
+  - Exibir marcos em andamento com barra de progresso (ex: "10kg perdidos" com 72%).
+- Permitir navegar pelas áreas principais:
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil
