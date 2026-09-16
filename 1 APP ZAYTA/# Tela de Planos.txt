@@ -1,0 +1,29 @@
+# Tela de Planos
+
+## Funções
+
+- Permitir voltar para a tela anterior.
+- Exibir título "Escolha seu plano".
+- Exibir descrição dos planos disponíveis.
+- Exibir plano Gratuito.
+- Exibir preço do plano Gratuito.
+- Exibir recursos incluídos no plano Gratuito.
+- Permitir continuar utilizando a ZAYTA gratuitamente.
+- Exibir plano Premium.
+- Exibir preço mensal do plano Premium.
+- Exibir recursos incluídos no plano Premium.
+- Identificar o plano Premium como "Mais completo".
+- Permitir assinar o plano Premium.
+- Exibir comparação entre os planos Gratuito e Premium.
+- Exibir quais recursos estão disponíveis em cada plano.
+- Diferenciar recursos básicos e completos.
+- Exibir recursos limitados no plano Gratuito.
+- Exibir aviso sobre cancelamento da assinatura Premium.
+- Permitir acessar os Termos de Uso.
+- Permitir acessar a Política de Privacidade.
+- Permitir acessar a Política de Reembolso.
+  - Início
+  - Refeições
+  - Treinos
+  - Evolução
+  - Perfil
